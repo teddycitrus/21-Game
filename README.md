@@ -12,5 +12,5 @@ The terminal-based '21 Card Game' I made in C++ for PointClickCare’s Early Tec
 
 
 
-# I hope you enjoy my 21 Game.
-**Have fun!**
+
+**I hope you enjoy my 21 Game. Have fun!**
