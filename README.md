@@ -10,7 +10,6 @@ The terminal-based '21 Card Game' I made in C++ for PointClickCare’s Early Tec
 3. Download a C++ compiler (e.g. g++ from [MinGW](https://github.com/niXman/mingw-builds-binaries/releases) for Windows). Compile the program in cmd/terminal (e.g. ```bash
 g++ main.cpp -o main
 ```), then execute (e.g. ```bash
-.\main.exe
-```
+.\main.exe```
 
 **I hope you enjoy my '21 Game'!**
