@@ -36,7 +36,7 @@ After an ending, the replay prompt is delivered. Choosing 'no' terminates the pr
 ![image](https://github.com/user-attachments/assets/30a007ff-d1ae-4b76-8491-1587620b4dad)
 
 
-# Setup options (in order of recommendation)
+# Setup-Run options (in order of recommendation)
 1. [Replit](https://replit.com/@johnmannul/21-Game?v=1)
 2. Copy-pasting ```src/main.cpp``` into an online C++ compiler (e.g. [Programiz](https://www.programiz.com/cpp-programming/online-compiler/)), then running the code
 3. Download a C++ compiler (e.g. g++ from [MinGW](https://github.com/niXman/mingw-builds-binaries/releases) for Windows). Compile the program in cmd/terminal (e.g. ```g++ main.cpp -o main```), then execute (e.g. ```.\main.exe```)
