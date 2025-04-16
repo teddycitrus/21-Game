@@ -1,7 +1,7 @@
 # 21-Game
 The terminal-based '21 Card Game' I made in C++ for PointClickCare’s Early Tech Talent Incubator Software Engineering Summer Program.
 
-> Note: This program makes heavy use of ANSI escape codes (clearing the console, applying text colors). It is advised you run the program in a terminal/terminal emulator that supports ANSI escape codes
+> Note: This program makes heavy use of ANSI escape codes (clearing the console, applying text colors). It is advised you run the program in a terminal/terminal emulator that supports ANSI escape codes. 
 > A recommended method of running the program is [this Replit console](https://replit.com/@teddycitroos/21-Game?v=1).
 
 # Gameplay
