@@ -7,6 +7,10 @@ The terminal-based '21 Card Game' I made in C++ for PointClickCare’s Early Tec
 # Setup options (in order of recommendation):
 1. [Replit](https://replit.com/@johnmannul/21-Game?v=1)
 2. Copy-pasting ```src/main.cpp``` into an online C++ compiler (e.g. [Programiz](https://www.programiz.com/cpp-programming/online-compiler/)), then running the code
-3. Download a C++ compiler (e.g. g++ from [MinGW](https://github.com/niXman/mingw-builds-binaries/releases) for Windows). Compile the program in cmd/terminal (e.g. ```bash g++ main.cpp -o main```), then execute (e.g. ```bash .\main.exe```
+3. Download a C++ compiler (e.g. g++ from [MinGW](https://github.com/niXman/mingw-builds-binaries/releases) for Windows). Compile the program in cmd/terminal (e.g. ```bash
+g++ main.cpp -o main
+```), then execute (e.g. ```bash
+.\main.exe
+```
 
 **I hope you enjoy my '21 Game'!**
