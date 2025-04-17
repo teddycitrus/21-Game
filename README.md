@@ -18,6 +18,11 @@ This project was a terminal-based '21 Card Game' I made in C++ for PointClickCar
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Getting started
+
+### Recommended method
+1. Copy-pasting ```src/main.cpp``` into an online C++ compiler with ANSI escape code support (e.g. [Replit](https://replit.com/)), then running the code
+
+### Alternate method
 #### Prerequisites
 * Download a C++ compiler (e.g. g++ from [MinGW](https://github.com/niXman/mingw-builds-binaries/releases), for Windows)
 
@@ -34,9 +39,6 @@ This project was a terminal-based '21 Card Game' I made in C++ for PointClickCar
   ```sh
   .\main.exe
   ```
-
-### Simpler alternative
-1. Copy-pasting ```src/main.cpp``` into an online C++ compiler with ANSI escape code support (e.g. [Replit](https://replit.com/)), then running the code
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
