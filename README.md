@@ -12,7 +12,7 @@
 ## About The Project
 ![image](https://github.com/user-attachments/assets/9fe1ea88-4127-483e-a4ee-3daefbae4abf)
 
-This project was a terminal-based '21 Card Game' I made in C++ for PointClickCare’s Early Tech Talent Incubator Software Engineering Summer Program.
+This project was a terminal-based '21 Card Game' I made in C++ as part of the coding challenge for applying to PointClickCare’s Early Tech Talent Incubator Software Engineering Summer Program.
 
 > Note: This program makes heavy use of ANSI escape codes (clearing the console, applying text colors). It is advised you run the program in a terminal/terminal emulator that supports ANSI escape codes. 
 > A recommended method of running the program is the Replit console.
