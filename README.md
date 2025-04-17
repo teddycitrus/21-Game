@@ -22,7 +22,7 @@ This project was a terminal-based '21 Card Game' I made in C++ as part of the co
 ## Getting started
 
 ### Recommended method
-1. Copy-pasting ```src/main.cpp``` into an online C++ compiler with ANSI escape code support (e.g. [Replit](https://replit.com/)), then running the code
+1. Copy-pasting ```src/main.cpp``` into a C++ compiler with a terminal that implements ANSI escape code support (e.g. [Replit](https://replit.com/)), then running the code
 
 ### Alternate method
 #### Prerequisites
