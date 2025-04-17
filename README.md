@@ -1,10 +1,45 @@
-# 21-Game
-The terminal-based '21 Card Game' I made in C++ for PointClickCare’s Early Tech Talent Incubator Software Engineering Summer Program.
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#getting-started">Getting Started</a></li>
+    <li><a href="#gameplay">Gameplay</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#license">License</a></li>
+  </ol>
+</details>
+
+## About The Project
+This project was a terminal-based '21 Card Game' I made in C++ for PointClickCare’s Early Tech Talent Incubator Software Engineering Summer Program.
 
 > Note: This program makes heavy use of ANSI escape codes (clearing the console, applying text colors). It is advised you run the program in a terminal/terminal emulator that supports ANSI escape codes. 
 > A recommended method of running the program is [this Replit console](https://replit.com/@teddycitroos/21-Game?v=1).
 
-# Gameplay
+## Getting started
+### Prerequisites
+* Download a C++ compiler (e.g. g++ from [MinGW](https://github.com/niXman/mingw-builds-binaries/releases) for Windows)
+
+### Compiling
+* Compile the program in cmd/terminal using valid syntax for the compiler you have installed.
+* g++ example:
+  ```sh
+  g++ main.cpp -o main
+  ```
+
+### Execution
+* Execute the program in cmd/terminal using valid syntax for the compiler you have installed.
+* g++ example:
+  ```sh
+  .\main.exe
+  ```
+
+### Simpler alternatives
+1. [Replit](https://replit.com/@teddycitroos/21-Game?v=1)
+2. Copy-pasting ```src/main.cpp``` into an online C++ compiler (e.g. [Programiz](https://www.programiz.com/cpp-programming/online-compiler/)), then running the code
+
+
+## Gameplay
 Note: These screenshots are taken on the Replit console, where the program was run.
 
 The game is entirely-terminal based. It takes typed user input at numerous points.
@@ -35,14 +70,35 @@ After an ending, the replay prompt is delivered. Choosing 'no' terminates the pr
 
 ![image](https://github.com/user-attachments/assets/30a007ff-d1ae-4b76-8491-1587620b4dad)
 
+<!-- ROADMAP -->
+## Roadmap
+- [x] Initial terminal-based game loop
+  - [x] Player vs Dealer logic
+  - [x] Dealer turn logic
+  - [x] Basic win/loss/tie resolution
+  - [x] Replay option/prompt
+- [x] Hand system
+  - [x] Card drawing & deck management
+  - [x] Statistics tracker (win/loss count, hand total)
+- [x] AI Players
+  - [x] 'Enemy' struct, objects, functions
+  - [x] Enemy stay/draw card logic 
+- [x] 'No instant wins' rule toggle + logic
+- [x] Terminal UI
+  - [x] Console-clearing with ANSI escape codes/system calls
+  - [x] Color-coded text input and output via ANSI escape codes
+- [x] Refactor into modular code
+- [ ] Game state persistence (save/load; could use session cache if remade in a web app)  
+- [ ] Difficulty modes for AI enemies; 'confidence', 'optimism', etc.
+- [ ] GUI version using C++ & libraries like SFML or Qt, or Java & Swing, or Unity Game Engine, etc.
+- [ ] Sound support (voicelines, sound effects)  
+- [ ] Networked multiplayer support (likely in a webapp)
+- [ ] Custom rule editor (e.g. double down, insurance, etc.)  
+- [ ] Card counting challenge mode  
 
-# Setup-Run options (in order of recommendation)
-1. [Replit](https://replit.com/@teddycitroos/21-Game?v=1)
-2. Copy-pasting ```src/main.cpp``` into an online C++ compiler (e.g. [Programiz](https://www.programiz.com/cpp-programming/online-compiler/)), then running the code
-3. Download a C++ compiler (e.g. g++ from [MinGW](https://github.com/niXman/mingw-builds-binaries/releases) for Windows). Compile the program in cmd/terminal (e.g. ```g++ main.cpp -o main```), then execute (e.g. ```.\main.exe```)
+<!-- LICENSE -->
+## License
 
+Distributed under the MIT License. See `LICENSE` for more information.
 
-
-
-
-**I hope you enjoy my 21 Game. Have fun!**
+# I hope you enjoy my 21 Game. Have fun!
