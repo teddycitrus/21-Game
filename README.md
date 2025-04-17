@@ -1,15 +1,13 @@
 <a id="readme-top"></a>
 <!-- TABLE OF CONTENTS -->
 # Table of Contents
-<details>
-  <ol>
-    <li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#gameplay">Gameplay</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#license">License</a></li>
-  </ol>
-</details>
+<ol>
+  <li><a href="#about-the-project">About The Project</a></li>
+  <li><a href="#getting-started">Getting Started</a></li>
+  <li><a href="#gameplay">Gameplay</a></li>
+  <li><a href="#roadmap">Roadmap</a></li>
+  <li><a href="#license">License</a></li>
+</ol>
 
 ## About The Project
 This project was a terminal-based '21 Card Game' I made in C++ for PointClickCare’s Early Tech Talent Incubator Software Engineering Summer Program.
