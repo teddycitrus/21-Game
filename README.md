@@ -1,3 +1,4 @@
+<a id="readme-top"></a>
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +16,8 @@ This project was a terminal-based '21 Card Game' I made in C++ for PointClickCar
 
 > Note: This program makes heavy use of ANSI escape codes (clearing the console, applying text colors). It is advised you run the program in a terminal/terminal emulator that supports ANSI escape codes. 
 > A recommended method of running the program is [this Replit console](https://replit.com/@teddycitroos/21-Game?v=1).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Getting started
 ### Prerequisites
@@ -38,6 +41,7 @@ This project was a terminal-based '21 Card Game' I made in C++ for PointClickCar
 1. [Replit](https://replit.com/@teddycitroos/21-Game?v=1)
 2. Copy-pasting ```src/main.cpp``` into an online C++ compiler (e.g. [Programiz](https://www.programiz.com/cpp-programming/online-compiler/)), then running the code
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Gameplay
 Note: These screenshots are taken on the Replit console, where the program was run.
@@ -70,8 +74,11 @@ After an ending, the replay prompt is delivered. Choosing 'no' terminates the pr
 
 ![image](https://github.com/user-attachments/assets/30a007ff-d1ae-4b76-8491-1587620b4dad)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- ROADMAP -->
 ## Roadmap
+### Completed
 - [x] Initial terminal-based game loop
   - [x] Player vs Dealer logic
   - [x] Dealer turn logic
@@ -88,17 +95,23 @@ After an ending, the replay prompt is delivered. Choosing 'no' terminates the pr
   - [x] Console-clearing with ANSI escape codes/system calls
   - [x] Color-coded text input and output via ANSI escape codes
 - [x] Refactor into modular code
-- [ ] Game state persistence (save/load; could use session cache if remade in a web app)  
+
+### Future Developments
+- [ ] Implement save/load functionality for persistent game state (web version could leverage session/local storage)
 - [ ] Difficulty modes for AI enemies; 'confidence', 'optimism', etc.
 - [ ] GUI version using C++ & libraries like SFML or Qt, or Java & Swing, or Unity Game Engine, etc.
 - [ ] Sound support (voicelines, sound effects)  
 - [ ] Networked multiplayer support (likely in a webapp)
 - [ ] Custom rule editor (e.g. double down, insurance, etc.)  
-- [ ] Card counting challenge mode  
+- [ ] Card-counting challenge mode
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # I hope you enjoy my 21 Game. Have fun!
