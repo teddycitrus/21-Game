@@ -20,17 +20,17 @@ This project was a terminal-based '21 Card Game' I made in C++ for PointClickCar
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Getting started
-### Prerequisites
+#### Prerequisites
 * Download a C++ compiler (e.g. g++ from [MinGW](https://github.com/niXman/mingw-builds-binaries/releases) for Windows)
 
-### Compiling
+#### Compiling
 * Compile the program in cmd/terminal using valid syntax for the compiler you have installed.
 * g++ example:
   ```sh
   g++ main.cpp -o main
   ```
 
-### Execution
+#### Execution
 * Execute the program in cmd/terminal using valid syntax for the compiler you have installed.
 * g++ example:
   ```sh
